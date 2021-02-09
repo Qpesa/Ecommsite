@@ -1,16 +1,4 @@
-```
-**************************************************************************
 
-   _____    _____   _   _____    _    ____      _____   _____    _____
-  / ____|  / ____| | | |  __ \  | |  / __ \    |  ___| |  __ \  |  __ \
- | (___   | |      | | | |__) | | | | |  | |   | |___  | |__) | | |__) |
-  \___ \  | |      | | |  ___/  | | | |  | |   |  ___| |  _  /  |  ___/
-  ____) | | |____  | | | |      | | | |__| |   | |___  | | \ \  | |
- |_____/   \_____| |_| |_|      |_|  \____/    |_____| |_|  \_\ |_|
-
-                    https://www.scipioerp.com
-
-**************************************************************************
 ```
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com) [![Maintainability](https://api.codeclimate.com/v1/badges/0193ee026d92287b5db0/maintainability)](https://codeclimate.com/github/ilscipio/scipio-erp/maintainability) [![Discourse topics](https://img.shields.io/discourse/https/forum.scipioerp.com/topics.svg)](https://forum.scipioerp.com) [![Read the Docs](https://img.shields.io/readthedocs/pip.svg)](https://www.scipioerp.com/community/developer/installation-configuration/)
 
